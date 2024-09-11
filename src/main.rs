@@ -16,7 +16,7 @@ fn main() {
     let window_height = SCREEN_HEIGHT;
     let buffer_width = SCREEN_WIDTH;
     let buffer_height = SCREEN_HEIGHT;
-    let window_scale = Scale::X2;
+    let window_scale = Scale::X4;
  
     
     let mut color = from_u8_rgb(0, 0, 0);
